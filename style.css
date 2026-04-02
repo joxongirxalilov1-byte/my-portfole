@@ -1,0 +1,18 @@
+.box1{
+    display: flex;
+    justify-content: space-between;
+    
+.right 
+  display: flex;
+  align-items: center;
+  gap: 30px;
+
+}
+.box2{
+    text-align: left;
+    font-size:xx-large;
+    color: blue;
+    margin: 100px;
+    display: flex;
+    justify-content: space-between;
+}
